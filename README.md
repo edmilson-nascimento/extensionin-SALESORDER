@@ -41,20 +41,19 @@ Fabio Henrique Cirino Silva
 fabio.cirino@agrex.com.br
     
 
-### BAPI EXTENSION (Nivel de cabeçalho) ###
+#### BAPI extensionin (Nivel de cabeçalho) ####
 - VBAKKOZ
 - VBAKKOZX
 - BAPE_VBAK
 - BAPE_VBAKX
 
-BAPI EXTENSION (Nivel de Item)
-VBAP
+BAPI extensionin VBAP (Nivel de Item)
 a) VBAPKOZ
 b) VBAPKOZX
 c) BAPE_VBAP
 d) BAPE_VBAPX
 
-VBEP
+BAPI extensionin VBEP (Nivel de Item)
 a) VBEPKOZ
 b) VBEPKOZX
 c) BAPE_VBEP
