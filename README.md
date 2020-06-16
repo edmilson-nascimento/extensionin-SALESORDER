@@ -49,7 +49,7 @@ fabio.cirino@agrex.com.br
 
 BAPI extensionin VBAP (Nivel de Item)
 - VBAPKOZ
--- VBAPKOZX
+- VBAPKOZX
 - BAPE_VBAP
 - BAPE_VBAPX
 
