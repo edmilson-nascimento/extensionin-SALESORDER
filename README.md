@@ -42,18 +42,18 @@ fabio.cirino@agrex.com.br
     
 
 #### BAPI extensionin (Nivel de cabeçalho) ####
-- VBAKKOZ
-- VBAKKOZX
-- BAPE_VBAK
-- BAPE_VBAKX
+- VBAKKOZ - Campos de comunicação - cabeçalho: modificações cliente
+- VBAKKOZX - Campos de comunicação - cabeçalho: modificações cliente
+- BAPE_VBAK - Interface BAPI para extensões de cliente para tabela VBAK
+- BAPE_VBAKX - Lista de seleção BAPI p/ampliações do cliente p/tabela VBAK
 
-BAPI extensionin VBAP (Nivel de Item)
+#### BAPI extensionin VBAP (Nivel de Item) ####
 - VBAPKOZ
 - VBAPKOZX
 - BAPE_VBAP
 - BAPE_VBAPX
 
-BAPI extensionin VBEP (Nivel de Item)
+#### BAPI extensionin VBEP (Nivel de Item) ####
 - VBEPKOZ
 - VBEPKOZX
 - BAPE_VBEP
