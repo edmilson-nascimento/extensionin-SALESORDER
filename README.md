@@ -48,13 +48,13 @@ fabio.cirino@agrex.com.br
 - BAPE_VBAKX
 
 BAPI extensionin VBAP (Nivel de Item)
-a) VBAPKOZ
-b) VBAPKOZX
-c) BAPE_VBAP
-d) BAPE_VBAPX
+- VBAPKOZ
+-- VBAPKOZX
+- BAPE_VBAP
+- BAPE_VBAPX
 
 BAPI extensionin VBEP (Nivel de Item)
-a) VBEPKOZ
-b) VBEPKOZX
-c) BAPE_VBEP
-d) BAPE_VBEPX
+- VBEPKOZ
+- VBEPKOZX
+- BAPE_VBEP
+- BAPE_VBEPX
