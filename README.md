@@ -35,3 +35,27 @@ zcl_sd_extensionin=>add_value(
     extensionin = tov_extensionin[]
 ) .
 ```
+## Estruturas envolvidas ##
+
+Fabio Henrique Cirino Silva
+fabio.cirino@agrex.com.br
+    
+
+BAPI EXTENSION (Nivel de cabeçalho)
+a) VBAKKOZ
+b) VBAKKOZX
+c) BAPE_VBAK
+d) BAPE_VBAKX
+
+BAPI EXTENSION (Nivel de Item)
+VBAP
+a) VBAPKOZ
+b) VBAPKOZX
+c) BAPE_VBAP
+d) BAPE_VBAPX
+
+VBEP
+a) VBEPKOZ
+b) VBEPKOZX
+c) BAPE_VBEP
+d) BAPE_VBEPX
