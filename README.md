@@ -13,4 +13,26 @@ Adicionar campos Z durante a Criação da Ordem de Vendas pela BAPI Standard.
 ABAP usando uma classe com um metodos staticos.
 
 ## Solução ##
-Importar o arquivo, via `open data set`, converter em hexadecial e anexo no e-mail.
+Para que a solução tenha um bom aproveitamento de código, como parâmetros temos:
+- O campo referente ao item;
+- O valor do campo referente ao item;
+- O campo que iremos atribuir valor;
+- A estrutura do campo que iremos atribuir valor;
+- O valor que iremos atribuir a este campo;
+
+Para a opção de alteração também teremos uma tabela extensionin que sera alterada pelo método.
+
+Esta rotina, em sua versão inicial, contempla apenas campos a nível de itens. Em novas atualizações ira contemplar também a nível de cabeçalho. Claro que o código esta aberto a contribuições.
+
+```abap
+zcl_sd_extensionin=>add_value(
+  exporting
+    item_field  = 'POSNR'
+    item_value  = item-posnr
+    field       = 'ZCA_PDEN'
+    structure   = 'BAPE_VBAP'
+    value       = item-zca_pden
+  changing
+    extensionin = tov_extensionin[]
+) .
+```
