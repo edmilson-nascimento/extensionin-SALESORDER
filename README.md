@@ -36,8 +36,7 @@ zcl_sd_extensionin=>add_value(
 ) .
 ```
 ## Estruturas envolvidas ##
-Para esse cenário, foi atribuído a um campo Z no nível de item a informação que eu gostaria que fosse salva na execução da BAPI. Para isso, alem de um correto preenchimento do extensioon-in, também tenho que ter esse campo criado na estrutura de comunicação e de destino. O meu amigo e colega de trabalha [fabio.cirino@agrex.com.br](Fabio Henrique Cirino Silva) me ajudou a mapear isso e seguem abaixo os tipos/estruturas.
-[fabio.cirino@agrex.com.br](Fabio Henrique Cirino Silva)
+Para esse cenário, foi atribuído a um campo Z no nível de item a informação que eu gostaria que fosse salva na execução da BAPI. Para isso, alem de um correto preenchimento do extensioon-in, também tenho que ter esse campo criado na estrutura de comunicação e de destino. O meu amigo e colega de trabalha [mailto:fabio.cirino@agrex.com.br!](Fabio Henrique Cirino Silva) me ajudou a mapear isso e seguem abaixo os tipos/estruturas.
     
 
 #### BAPI extensionin (Nivel de cabeçalho) ####
