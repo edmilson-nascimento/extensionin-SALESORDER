@@ -41,11 +41,11 @@ Fabio Henrique Cirino Silva
 fabio.cirino@agrex.com.br
     
 
-BAPI EXTENSION (Nivel de cabeçalho)
-a) VBAKKOZ
-b) VBAKKOZX
-c) BAPE_VBAK
-d) BAPE_VBAKX
+### BAPI EXTENSION (Nivel de cabeçalho) ###
+- VBAKKOZ
+- VBAKKOZX
+- BAPE_VBAK
+- BAPE_VBAKX
 
 BAPI EXTENSION (Nivel de Item)
 VBAP
