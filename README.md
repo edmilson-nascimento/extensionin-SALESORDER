@@ -48,13 +48,13 @@ fabio.cirino@agrex.com.br
 - BAPE_VBAKX - Lista de seleção BAPI p/ampliações do cliente p/tabela VBAK
 
 #### BAPI extensionin VBAP (Nivel de Item) ####
-- VBAPKOZ
-- VBAPKOZX
-- BAPE_VBAP
-- BAPE_VBAPX
+- VBAPKOZ - Campos de comunicação item: modificações cliente
+- VBAPKOZX - Campos de comunicação item: modificações cliente
+- BAPE_VBAP - Interface BAPI para extensões de cliente para tabela VBAP
+- BAPE_VBAPX - Lista de seleção BAPI p/ampliações do cliente p/tabela VBAP
 
 #### BAPI extensionin VBEP (Nivel de Item) ####
-- VBEPKOZ
-- VBEPKOZX
-- BAPE_VBEP
-- BAPE_VBEPX
+- VBEPKOZ - Campos modificação divisão rem.: modificações de cliente
+- VBEPKOZX - Campos de seleção divisão de remessas: modificações cliente
+- BAPE_VBEP - Interface BAPI para extensões de cliente para tabela VBEP
+- BAPE_VBEPX - Lista de seleção BAPI p/ampliações do cliente p/tabela VBEP
