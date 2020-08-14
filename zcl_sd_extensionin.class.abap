@@ -355,7 +355,6 @@ class zcl_sd_extensionin implementation.
       <data>  type any,
       <field> type any.
 
-
     if ( data is not initial ) .
 
       assign data->* to <data> .
