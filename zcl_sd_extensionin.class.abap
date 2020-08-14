@@ -110,14 +110,13 @@ class zcl_sd_extensionin definition
 endclass.
 
 
-class zcl_sd_extensionin implementation.
+class zcl_sd_extensionin implementation .
 
   method add_value .
 
     data:
       line_change  type sy-tabix,
       line_changex type sy-tabix.
-
 
 *   Verificando se o item ja foi adicionado na EXTENSIONIN
     zcl_sd_extensionin=>check_item(
@@ -206,7 +205,6 @@ class zcl_sd_extensionin implementation.
       ).
 
     endif .
-
 
     assign line->* to <line> .
     assign linex->* to <linex> .
