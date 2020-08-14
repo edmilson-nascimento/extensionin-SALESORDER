@@ -383,7 +383,6 @@ class zcl_sd_extensionin implementation.
 
   method fill_item .
 
-
     if ( line is not initial ) .
 
       zcl_sd_extensionin=>change_item(
