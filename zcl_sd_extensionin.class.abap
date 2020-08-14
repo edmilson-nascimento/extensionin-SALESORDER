@@ -425,8 +425,6 @@ class zcl_sd_extensionin implementation.
 
     endif .
 
-
-
   endmethod .
 
 
