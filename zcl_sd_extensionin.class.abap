@@ -17,7 +17,6 @@ class zcl_sd_extensionin definition
       changing
         !extensionin type bapiparex_tab .
 
-
   protected section.
 
     class-methods fill
@@ -111,9 +110,7 @@ class zcl_sd_extensionin definition
 endclass.
 
 
-
 class zcl_sd_extensionin implementation.
-
 
   method add_value .
 
@@ -166,8 +163,6 @@ class zcl_sd_extensionin implementation.
       ) .
 
     endif .
-
-
 
   endmethod.
 
